@@ -3,7 +3,7 @@ Multi-level platform shooter game
 
 Platform Shooter Game
 
-Dive into the thrilling world of the Platform Shooter Game! This Unity-based project offers an action-packed experience where you'll engage in intense battles, navigate challenging levels, and face off against AI opponents.
+Dive into the thrilling world of the Platform Shooter Game! This Pygame-based project offers an action-packed experience where you'll engage in intense battles, navigate challenging levels, and face off against AI opponents.
 
 ## Features
 
