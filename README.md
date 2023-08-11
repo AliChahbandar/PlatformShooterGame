@@ -1,7 +1,4 @@
 # PlatformShooterGame
-Immerse yourself in a dynamic world where precise shooting, tactical strategy, and thrilling combat reign supreme. 
-
-Platform Shooter Game
 
 Dive into the thrilling world of the Platform Shooter Game! This Pygame-based project offers an action-packed experience where you'll engage in intense battles, navigate challenging levels, and face off against AI opponents.
 
