@@ -1,5 +1,5 @@
 # PlatformShooterGame
-Multi-level platform shooter game
+Game! Immerse yourself in a dynamic world where precise shooting, tactical strategy, and thrilling combat reign supreme. 
 
 Platform Shooter Game
 
