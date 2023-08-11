@@ -3,9 +3,11 @@ Multi-level platform shooter game
 
 Platform Shooter Game
 
-Immerse yourself in a captivating gaming experience with the Platform Shooter Game! Dive into the world of dynamic action, strategy, and excitement as you navigate through three unique levels, battling AI bots and conquering challenges.
+Dive into the thrilling world of the Platform Shooter Game! This Unity-based project offers an action-packed experience where you'll engage in intense battles, navigate challenging levels, and face off against AI opponents.
 
-Features:
-Engaging Player Controls, Command your character's movements and actions with intuitive controls, delivering a seamless gaming experience.
-Weapons and Grenades, Master the art of combat with diverse weapons and the strategic use of grenades to outmaneuver opponents.
-AI Opponents, Challenge your skills against AI bots with varying difficulty levels, each employing distinct tactics to keep you on your toes. Level Variety, Explore three meticulously designed levels, each offering a distinct environment and challenges to conquer.
+## Features
+
+- **Engaging Gameplay:** Take control of your character and experience the excitement of dynamic platform shooting with diverse weapons and tactics.
+- **AI Bots:** Challenge yourself against AI opponents with varying levels of difficulty, each employing unique strategies to keep you on your toes.
+- **Progressive Difficulty:** Navigate through three distinct levels, each increasing in complexity and providing a fresh challenge.
+- **Weapon Mechanics:** Utilize different weapons and grenade throwing to outsmart opponents and conquer obstacles.
